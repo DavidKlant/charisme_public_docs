@@ -39,6 +39,21 @@ For the purposes of this Privacy Policy:
 
     You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
+Use of Analytics and User Experience Monitoring
+Overview
+To continuously improve our app and provide you with a seamless user experience, we utilize various analytics and user experience monitoring tools, including UXCam, Google Analytics, Mixpanel, and Intercom. This section outlines how we use these tools and the types of data they collect.
+How We Use Analytics Tools
+UXCam: We use UXCam to understand user behavior within our app better. UXCam helps us record user interactions, such as taps, swipes, and form submissions, without collecting any personal information entered by the user. These recordings assist us in identifying usability issues and improving app functionality.
+Google Analytics, Mixpanel, & Intercom: These tools are employed to gather aggregated usage data, such as app visit frequency, user engagement metrics, and feature usage. This data helps us make informed decisions about new features and optimizations.
+Data Collection and Privacy
+What Data We Collect: The analytics and monitoring tools mentioned may collect data related to your device, such as model, operating system, and screen resolution, as well as app usage data including session duration and user interactions. UXCam may record user sessions, but we configure it to avoid capturing sensitive personal information.
+Purpose of Data Collection: The sole purpose of collecting this data is to enhance app functionality, improve user experience, and guide our development priorities. Data analysis helps us identify trends, usage patterns, and areas for improvement.
+Data Sharing and Disclosure: The data collected through these analytics tools is processed and stored by the respective service providers according to their privacy policies. We do not share this data with any unauthorized third parties. We may share aggregated, anonymized data publicly or with our partners, but this does not include any personally identifying information.
+User Consent and Opt-Out Options
+Your use of our app signifies your consent to the data collection and analysis practices described in this section. We respect your privacy and provide options to opt-out or control what data is collected. For instructions on how to manage your data preferences or opt out of specific analytics and monitoring services, please refer to the settings within our app or contact our support team.
+Commitment to Privacy
+We are committed to protecting your privacy and ensuring the security of your data. For more detailed information on our data protection practices, please refer to our Privacy Policy. If you have any questions or concerns about the use of analytics tools in our app, do not hesitate to contact us.
+
 Collecting and Using Your Personal Data
 Types of Data Collected
 Personal Data
