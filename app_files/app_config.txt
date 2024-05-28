@@ -1,3 +1,4 @@
 {
-    "playStoreWorkAroundActive": true
+    "playStoreWorkAroundActive": true,
+    "calendlyLink": "https://calendly.com/matthiess/meet-charisme",
 }
