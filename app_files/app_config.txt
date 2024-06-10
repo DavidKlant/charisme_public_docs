@@ -1,4 +1,4 @@
 {
-    "playStoreWorkAroundActive": false,
+    "playStoreWorkAroundActive": true,
     "calendlyLink": "https://calendly.com/nele-charisme/meet-charisme"
 }
