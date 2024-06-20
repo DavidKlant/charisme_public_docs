@@ -1,5 +1,5 @@
 {
-    "playStoreWorkAroundActive": false,
+    "playStoreWorkAroundActive": true,
     "calendlyLink": "https://calendly.com/nele-charisme/meet-charisme",
     "feedbackMail": "matthiess@charisme.app",
     "phbFirstSurveyLink": "https://www.charisme.app/",
