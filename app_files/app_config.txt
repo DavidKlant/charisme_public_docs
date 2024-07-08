@@ -4,6 +4,7 @@
     "feedbackMail": "matthiess@charisme.app",
     "phbFirstSurveyLink": "https://survey.healthworks.de/index.php/267477?lang=en",
     "phbParticipantInfo": "https://drive.google.com/file/d/15w1AWFbScHVvgUhILHzHTbDMcZ2MjjsG/view",
+    "unsubscribeQuestionnaireUrl": "https://forms.gle/cKePduJfS3Ld3xxY7",
     "codeActive": [
         true, true, false, false, false, false, false, false, false, false
    ]
